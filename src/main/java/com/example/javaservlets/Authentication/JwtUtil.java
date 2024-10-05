@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class JwtUtil {
-    private static final String SECRET_KEY = "your_secret_key"; // Change this to a strong secret key
+    private static final String SECRET_KEY = "XYz8825KKG94"; // Change this to a strong secret key
     private static final long ADMIN_EXPIRATION_TIME = 1000 * 60 * 60; // 1 hour
     private static final long STAFF_EXPIRATION_TIME = 1000 * 60 * 30; // 30 minutes
 
